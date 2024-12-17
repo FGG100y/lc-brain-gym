@@ -1,0 +1,7 @@
+*.txt
+*.pdf
+*.xlsx
+data/
+hwod_exams/
+hwod_readme/
+__pycache__/
